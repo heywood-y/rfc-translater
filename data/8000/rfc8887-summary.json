@@ -1,8 +1,0 @@
-{
-  "number": 8887,
-  "model": "gpt-3.5-turbo",
-  "created_at": "2024-03-17T22:20:50.810843",
-  "summary": [
-    "RFC 8887は、WebSocket用のJMAPサブプロトコルであり、JSON Meta Application Protocol（JMAP）の拡張を提供します。このRFCの目的は、JMAPクライアントとサーバー間のリアルタイム通信を可能にし、効率的なデータ同期を実現することです。"
-  ]
-}

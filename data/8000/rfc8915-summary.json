@@ -1,8 +1,0 @@
-{
-  "number": 8915,
-  "model": "gpt-4-turbo-preview",
-  "created_at": "2024-03-17T22:27:41.234669",
-  "summary": [
-    "RFC 8915は、Network Time Protocol (NTP) に対するNetwork Time Security (NTS) の導入を規定しています。その目的は、時刻同期プロセスのセキュリティを強化し、改ざんや偽装から保護することです。利用場面としては、インターネット上で正確な時刻を提供・同期するシステムやデバイスに適用されます。"
-  ]
-}

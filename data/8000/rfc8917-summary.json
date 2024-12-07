@@ -1,8 +1,0 @@
-{
-  "number": 8917,
-  "model": "gpt-4-turbo-preview",
-  "created_at": "2024-03-17T22:27:54.844368",
-  "summary": [
-    "RFC 8917は、LoST-Validation Straightforward-Naming Authority PoinTeR (S-NAPTR) アプリケーションサービスタグに関するもので、位置情報に基づくサービスルーティングの検証を目的としています。この規格は、緊急通信やその他のサービスでの利用を想定しており、効率的なルーティングとサービスの検証を可能にします。"
-  ]
-}

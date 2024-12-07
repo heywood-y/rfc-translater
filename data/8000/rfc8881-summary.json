@@ -1,8 +1,0 @@
-{
-  "number": 8881,
-  "model": "gpt-3.5-turbo",
-  "created_at": "2024-03-17T22:20:35.961849",
-  "summary": [
-    "RFC 8881は、NFS Version 4 Minor Version 1 Protocolに関する標準仕様であり、NFSプロトコルの拡張と改善を提供します。このRFCの目的は、NFSv4.1プロトコルの機能性やセキュリティの向上、および新しい機能の追加を促進することです。"
-  ]
-}
